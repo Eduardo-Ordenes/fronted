@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.bd2fb22c.css",
+    "main.js": "/portafolio/static/js/main.01e76900.js",
+    "static/js/453.7d1ffe6d.chunk.js": "/portafolio/static/js/453.7d1ffe6d.chunk.js",
+    "static/media/Imagen2.png": "/portafolio/static/media/Imagen2.731daaea26155fdb3d55.png",
+    "static/media/user.jpeg": "/portafolio/static/media/user.cb46dc80b97512626b26.jpeg",
+    "static/media/delivery3.png": "/portafolio/static/media/delivery3.513f71154035d5851a55.png",
+    "static/media/Hand coding-bro (1).png": "/portafolio/static/media/Hand coding-bro (1).ebeafd6d6b5b3eeafd92.png",
+    "static/media/hapi.png": "/portafolio/static/media/hapi.e4abade5210af065f077.png",
+    "static/media/delivery1.png": "/portafolio/static/media/delivery1.4dd97d617f3143da3c07.png",
+    "static/media/delivery2.png": "/portafolio/static/media/delivery2.54ef6829dc1d6b96e0a6.png",
+    "static/media/sistemaControl2.png": "/portafolio/static/media/sistemaControl2.17c2cdd12e94d0bf1b63.png",
+    "static/media/logo1.jpg": "/portafolio/static/media/logo1.9914db1cd77fa40f7632.jpg",
+    "static/media/sistemaControl1.png": "/portafolio/static/media/sistemaControl1.aa83059420fe5419666f.png",
+    "static/media/sistema-control2.png": "/portafolio/static/media/sistema-control2.e671b59f132a399fe1ea.png",
+    "static/media/hapi2-form.png": "/portafolio/static/media/hapi2-form.998b7998ad79c4662829.png",
+    "static/media/hapi1-form.png": "/portafolio/static/media/hapi1-form.a575a64954a3e1d0dfa6.png",
+    "static/media/Currículum - Eduardo Salinas.pdf": "/portafolio/static/media/Currículum - Eduardo Salinas.b7bca97ea1cf0a30213c.pdf",
+    "static/media/hapi3-form.png": "/portafolio/static/media/hapi3-form.dd111426b70d569c9811.png",
+    "static/media/sqlserver.svg": "/portafolio/static/media/sqlserver.7e3c2025a2f083448bd8b4aa32b126ea.svg",
+    "static/media/react.svg": "/portafolio/static/media/react.b4aadc0713bb11142756748e605f70bd.svg",
+    "static/media/nodejs.svg": "/portafolio/static/media/nodejs.e7e718538ada32a8dc2b61340a397034.svg",
+    "static/media/python.svg": "/portafolio/static/media/python.4298525c028749eb4fa154f8f5bd1931.svg",
+    "static/media/github.svg": "/portafolio/static/media/github.5531be85d7a8d6f333e5c7136944a022.svg",
+    "static/media/git.svg": "/portafolio/static/media/git.8ee81345da1c18b6cdb4bbe93b464810.svg",
+    "static/media/javascript.svg": "/portafolio/static/media/javascript.3e2687addc486a87f811b895680a5eed.svg",
+    "index.html": "/portafolio/index.html",
+    "static/media/angular.svg": "/portafolio/static/media/angular.8d025088a1ff1e8c05194f4ddab7a0ad.svg",
+    "static/media/css.svg": "/portafolio/static/media/css.cce1e71a67427e01caedeed1b01d4efa.svg",
+    "static/media/html.svg": "/portafolio/static/media/html.0c8899975fbb5345002df9b408db0cc0.svg",
+    "main.bd2fb22c.css.map": "/portafolio/static/css/main.bd2fb22c.css.map",
+    "main.01e76900.js.map": "/portafolio/static/js/main.01e76900.js.map",
+    "453.7d1ffe6d.chunk.js.map": "/portafolio/static/js/453.7d1ffe6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd2fb22c.css",
+    "static/js/main.01e76900.js"
+  ]
+}
